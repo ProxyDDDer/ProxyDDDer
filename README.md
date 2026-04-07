@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm [ProxyDDDer](https://github.com/ProxyDDDer)! 🧸
 
-<!--
-**ProxyDDDer/ProxyDDDer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am beginner **Python Developer** from Russia with experience ranging from game mods to personal websites.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Path:** Aspiring **Fullstack Developer**
+* **Backend:** Python, SQL (Flask) 🐍
+* **Frontend:** HTML5, CSS3, JavaScript (Learning)
+* **IDEs:** PyCharm, VS Code(Sometimes)
+* **Experience:** Game Modding, Web Development, General Scripting, Game Development.
+
+### 🧩 About Me:
+
+- I am currently actively learning Python and building my portfolio.
+- I already have a couple of open source repositories you can explore! :)
+- I hate assembler(cuz its too difficult).
+
+### 📍 Fun Facts:
+
+- Spy pigeons are real.
