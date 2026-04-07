@@ -16,6 +16,6 @@ I am beginner **Python Developer** from Russia with experience ranging from game
 - I already have a couple of open source repositories you can explore! :)
 - I hate assembler(cuz its too difficult).
 
-### 📍 Fun Facts:
+---
 
 - Spy pigeons are real.
